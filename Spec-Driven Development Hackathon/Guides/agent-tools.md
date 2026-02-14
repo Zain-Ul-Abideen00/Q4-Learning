@@ -1,0 +1,24 @@
+# Agent Tools
+
+## General tools:
+tools: Read, Write, Edit, Bash, Glob, Grep, NotebookEdit, WebFetch, TodoWrite, WebSearch, Skill, ListMcpResourcesTool, ReadMcpResourceTool,
+
+## Context7 tools:
+mcp__Context7__resolve-library-id, mcp__Context7__query-docs,
+
+## Next.js tools:
+mcp__next-devtools__browser_eval, mcp__next-devtools__enable_cache_components, mcp__next-devtools__init, mcp__next-devtools__nextjs_docs, mcp__next-devtools__nextjs_index, mcp__next-devtools__nextjs_call, mcp__next-devtools__upgrade_nextjs_16,
+
+## DeepWiki tools:
+mcp__deepwiki__read_wiki_structure, mcp__deepwiki__read_wiki_contents, mcp__deepwiki__ask_question,
+
+
+## Better Auth tools:
+mcp__better-auth__chat, mcp__better-auth__search, mcp__better-auth__list_files, mcp__better-auth__get_file,
+
+## Neon tools:
+mcp__Neon__list_projects, mcp__Neon__list_organizations, mcp__Neon__list_shared_projects, mcp__Neon__create_project, mcp__Neon__delete_project, mcp__Neon__describe_project, mcp__Neon__run_sql, mcp__Neon__run_sql_transaction, mcp__Neon__describe_table_schema, mcp__Neon__get_database_tables, mcp__Neon__create_branch, mcp__Neon__prepare_database_migration, mcp__Neon__complete_database_migration, mcp__Neon__describe_branch, mcp__Neon__delete_branch, mcp__Neon__reset_from_parent, mcp__Neon__get_connection_string, mcp__Neon__provision_neon_auth, mcp__Neon__explain_sql_statement, mcp__Neon__prepare_query_tuning, mcp__Neon__complete_query_tuning, mcp__Neon__list_slow_queries, mcp__Neon__list_branch_computes, mcp__Neon__compare_database_schema, mcp__Neon__search, mcp__Neon__fetch, mcp__Neon__load_resource,
+
+
+## Playwright tools:
+mcp__playwright__browser_close, mcp__playwright__browser_resize, mcp__playwright__browser_console_messages, mcp__playwright__browser_handle_dialog, mcp__playwright__browser_evaluate, mcp__playwright__browser_file_upload, mcp__playwright__browser_fill_form, mcp__playwright__browser_install, mcp__playwright__browser_press_key, mcp__playwright__browser_type, mcp__playwright__browser_navigate, mcp__playwright__browser_navigate_back, mcp__playwright__browser_network_requests, mcp__playwright__browser_run_code, mcp__playwright__browser_take_screenshot, mcp__playwright__browser_snapshot, mcp__playwright__browser_click, mcp__playwright__browser_drag, mcp__playwright__browser_hover, mcp__playwright__browser_select_option, mcp__playwright__browser_tabs, mcp__playwright__browser_wait_for
